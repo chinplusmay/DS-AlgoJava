@@ -1,0 +1,5 @@
+WHILE vs FOR vs DO-WHILE
+
+when we dont know how many times the loop is going to run we use while loop
+
+do-WHILE will run atleast once in the loop

@@ -1,0 +1,34 @@
+KEY(password for pushing to github)   =+=   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
+
+git add . OR git add filename.ext = make the file(s) tracked
+git commit -m "comment" = make the files go to staging area which are tracked 
+touch filename.extenstion = to make new file
+cat filename.extenstion = display things available in that file
+git restore --staged filename.ext = to unstage the file
+rm -rf filname.ext = delete file
+git reset address of commit = it will save the commit of this address and delete all comits above it 
+git stash = to send the members to backstage 
+git stash pop = send members from backstage to stage
+git stash clear = to delete the members from stash
+git remote add origin url = connect to github
+git remote -v = to which server my git is connected
+git pull origin master = to stay upto date(by updating the code that is on github changed by a member to your local directory) 
+git push origin master = push data to gitub
+FIRST PULL THEN PUSH	
+git clone url = this can paste the code which u forked in github into your system directory
+git checkout name = head will come to name 
+
+vim text editor:  esc->:x to save
+                  esc->:wq to save & exit 
+~from where you have forked the project that is known as upstream url by convention
+~git branch : show all branches
+~git branch name : creates a new branch name
+~git checkout <name> : name is basically where you want to head now 
+.gitignore : a file used to ignore the files which you don't want to get track of, by Git
+
+git pull origin Bname : to pull code if any change is done in that branch
+To merge:
+git branch --merged
+git merge Bname(to merge)
+git push origin master.
+ 
