@@ -1,0 +1,18 @@
+Git terminal commands for my pc
+
+first open up cmd and type wsl for zsh
+go to the desired directory
+1) git init 
+2) git remote add origin https://github.com/chinplusmay/DS-AlgoJava.git
+3) git add . (staging area)
+4) git status
+5) git commit -m "messege"
+6) git push origin master
+7) username and pass will be Personal access tokens (classic) which will expire someday so have to re make it
+ token - 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
+
+To Updade Existing Repo
+1) git add .
+2) git status(to what files have changed and what files has been added new)
+3) git commit -m "messege"
+4) git push origin master
