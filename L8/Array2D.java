@@ -31,7 +31,7 @@ public class Array2D {
         for(int c=0; c < arr[r].length; c++) {
             System.out.print(arr[r][c] + " ");
         }
-        System.out.println(" ");                      // to have new after each row (Print i matrix format)
+        System.out.println(" ");                      // to have new after each row (Print in matrix format)
     }
 
     //Second Way :

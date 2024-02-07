@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "Array2D",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListEx",
+            "request": "launch",
+            "mainClass": "ArrayListEx",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "CaseCheck",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "CaseConvert",
+            "request": "launch",
+            "mainClass": "CaseConvert",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "ChangeValue",
+            "request": "launch",
+            "mainClass": "ChangeValue",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "DisplayArr",
+            "request": "launch",
+            "mainClass": "DisplayArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Greet",
+            "request": "launch",
+            "mainClass": "Greet",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "InOutArrayList",
+            "request": "launch",
+            "mainClass": "InOutArrayList",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Input1Darr",
+            "request": "launch",
+            "mainClass": "Input1Darr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "IsArmstrong3",
+            "request": "launch",
+            "mainClass": "IsArmstrong3",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "IsPalindrome",
+            "request": "launch",
+            "mainClass": "IsPalindrome",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "IsPrime",
+            "request": "launch",
+            "mainClass": "IsPrime",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "MaxArr",
+            "request": "launch",
+            "mainClass": "MaxArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "MultiArrayList",
+            "request": "launch",
+            "mainClass": "MultiArrayList",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "NestSwitch",
+            "request": "launch",
+            "mainClass": "NestSwitch",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "NoValueArr",
+            "request": "launch",
+            "mainClass": "NoValueArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "NofixedCol",
+            "request": "launch",
+            "mainClass": "NofixedCol",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Occurance",
+            "request": "launch",
+            "mainClass": "Occurance",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Overloading",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArr",
+            "request": "launch",
+            "mainClass": "ReverseArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Salary",
+            "request": "launch",
+            "mainClass": "Salary",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Shadowing",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Sumfn",
+            "request": "launch",
+            "mainClass": "Sumfn",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Sumfn2",
+            "request": "launch",
+            "mainClass": "Sumfn2",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Swap2",
+            "request": "launch",
+            "mainClass": "Swap2",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "SwapArr",
+            "request": "launch",
+            "mainClass": "SwapArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "UpdateArr",
+            "request": "launch",
+            "mainClass": "UpdateArr",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "VarArgs",
+            "projectName": "DS&Algo(Java)_48f9b610"
+        }
+    ]
+}

@@ -4,7 +4,7 @@ public class ArrayListEx{
 
         ArrayList<Integer> list = new ArrayList<>(4);     //the initial capacity is variable we actually give elements more than 10
         
-        list.add(12);     // to add a element the the array(list) Syntx: list.add(elemnt) and you can add as many elements as you want
+        list.add(12);     // to add a element in the array(list) Syntx: list.add(elemnt) and you can add as many elements as you want
         list.add(1213);
         list.add(11121);
         list.add(134);
