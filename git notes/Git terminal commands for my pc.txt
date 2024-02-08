@@ -9,7 +9,7 @@ go to the desired directory
 5) git commit -m "messege"
 6) git push origin master
 7) username and pass will be Personal access tokens (classic) which will expire someday so have to re make it
- token - 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
+ token - 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
 
 To Updade Existing Repo
 1) git add .
